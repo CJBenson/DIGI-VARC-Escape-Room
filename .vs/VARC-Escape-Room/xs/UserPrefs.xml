@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FD68F06A-A05D-6C52-E4B5-FC41EBE041C3}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Safe/KeyPressed.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Safe/KeyInput.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/Safe/KeypadController.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/Safe/KeyPressed.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VARC-Escape-Room" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Safe" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af8fb9c0-2b74-44d9-84ad-86e2ccad9346" />
+</Properties>

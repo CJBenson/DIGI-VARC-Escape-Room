@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2B4FCC5C-B4F9-7E17-D7BF-71E42070815D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MirrorSplit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MirrorSplit.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/PressButton.cs" Line="31" Column="18" />
+      <File FileName="Assets/Scripts/Interaction.cs" />
+      <File FileName="Assets/Scripts/GlassesPickup.cs" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs" />
+      <File FileName="Assets/Scripts/ChangeGlasses.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Escape-Room-Bones" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MirrorSplit.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AVProVideo.Demos PreferredExecutionTarget="5cfbc5dd-0c11-43e5-96fa-cf534adeec69" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4bc5d11c-abcd-4652-b432-6dcde3d04567" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
